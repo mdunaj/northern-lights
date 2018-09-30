@@ -1,6 +1,7 @@
 build/
 *.manifest
 *.spec
+*.pyc
 .pytest_cache/
 .env
 .venv
